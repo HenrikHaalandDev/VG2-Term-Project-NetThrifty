@@ -40,7 +40,7 @@
 #### 10/16/2024
 - **Activities/Notes:**
   - Ive done a lot of research at home. I will be ish starting from scratch cause most of the code I wrote wasnt mine either way. Didnt understand half of it. But this time Im lock and loaded.
-  - 
+  - At this moment, Im struggling with my file structure. I have a optimal structure for easier vewing. But flask cant find my templates. I either gotta find a soloution, or fix my strucutre so it works for flask
 
 #### 10/17/2024
 - **Activities/Notes:**
