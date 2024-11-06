@@ -21,7 +21,24 @@ print("Connection to database:", app.config['SQLALCHEMY_DATABASE_URI'])
 # Initialize SQLAlchemy
 db = SQLAlchemy(app)
 
+class users(db.Model):  
+    __tablename__ = 'users'  
+    id = db.Column(db.Integer, primary_key=True, autoincrement=True)  
+    name = db.Column(db.String(255), nullable=False)  
+    email = db.Column(db.String(255), unique=True, nullable=False)  
+    phone_number = db.Column(db.String(8)) 
+    date_of_birth = db.Column(db.Date)  
+    address = db.Column(db.Text) 
+
+    def __repr__(self):
+        return '<users %r' % self.id
+
+
+
 @app.route('/', methods=['POST', 'GET'])
 def index():
-    return render_template('index.html') 
+    if request.method == 'POST':
+        login_content = request.form['content']
+    else:
+        return render_template('index.html') 
 

@@ -44,7 +44,8 @@
 
 #### 10/17/2024
 - **Activities/Notes:**
-  - [Add details here]
+  - So I was able to figure out how to change the directory for where the "flask" sees. Meaning I didnt need to change my file structure.
+  - Now Im working on Flask ability to do templating. So Im working Jinja.
 
 #### 10/18/2024
 - **Activities/Notes:**

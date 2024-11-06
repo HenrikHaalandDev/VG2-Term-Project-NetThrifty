@@ -105,3 +105,4 @@ The solution will focus on basic functionality, security, and ease of use.
 - **Security**: Ensuring the system complies with security best practices and regulations.
 - **User support**: Creating tutorials and offering user support for the solution.
 - **Troubleshooting**: Solving issues that arise during development.
+- **Flask**: Learning its ability to do templating with jinja.
