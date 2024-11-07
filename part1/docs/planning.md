@@ -1,32 +1,28 @@
-# VG2 Term Project: NetThrifty (Finn.no 2.0)
+**VG2 Term Project: NetThrifty (Finn.no 2.0)**
 
 ### Table of Contents
-- [VG2 Term Project: NetThrifty (Finn.no 2.0)](#vg2-term-project-netthrifty-finnno-20)
-    - [Table of Contents](#table-of-contents)
-  - [1. Project Overview](#1-project-overview)
-- [](#)
-  - [2. Concept Summary](#2-concept-summary)
-  - [3. Key Features](#3-key-features)
-    - [3.1 Infrastructure](#31-infrastructure)
-    - [3.2 Code](#32-code)
-    - [3.3 Backup \& Security](#33-backup--security)
-    - [3.4 User Support](#34-user-support)
-  - [4. Technologies](#4-technologies)
-  - [5. Plan and Documentation](#5-plan-and-documentation)
-    - [5.1 Planning and Design](#51-planning-and-design)
-    - [5.2 Implementation](#52-implementation)
-    - [5.3 Testing](#53-testing)
-    - [5.4 Backup and Security](#54-backup-and-security)
-    - [5.5 Training Materials](#55-training-materials)
-  - [6. What I'll Learn](#6-what-ill-learn)
+- [1. Project Overview](#1-project-overview)
+- [2. Concept Summary](#2-concept-summary)
+- [3. Key Features](#3-key-features)
+  - [3.1 Infrastructure](#31-infrastructure)
+  - [3.2 Code](#32-code)
+  - [3.3 Backup \& Security](#33-backup--security)
+  - [3.4 User Support](#34-user-support)
+- [4. Technologies](#4-technologies)
+- [5. Plan and Documentation](#5-plan-and-documentation)
+  - [5.1 Planning and Design](#51-planning-and-design)
+  - [5.2 Implementation](#52-implementation)
+  - [5.3 Testing](#53-testing)
+  - [5.4 Backup and Security](#54-backup-and-security)
+  - [5.5 Training Materials](#55-training-materials)
+- [6. What I'll Learn](#6-what-ill-learn)
 
 ---
 
 ## 1. Project Overview
-# 
 The project aims to build a simplified version of **Finn.no**, a marketplace for buying and selling items. The solution will be developed from scratch, hosted on a Raspberry Pi, and made accessible to users over a network. The project will demonstrate my skills in programming, setting up infrastructure, and providing user support. 
 
-[**All code will be hosted on GitHub**](https://github.com/HenrikHaalandDev/TerminoppgaveVG2), as required.
+[**All code will be hosted on GitHub**](https://github.com/HenrikHaalandDev/VG2-Term-Project-NetThrifty), as required.
 
 ---
 
