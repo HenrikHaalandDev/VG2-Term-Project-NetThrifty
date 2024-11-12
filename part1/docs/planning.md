@@ -15,12 +15,13 @@
   - [5.3 Testing](#53-testing)
   - [5.4 Backup and Security](#54-backup-and-security)
   - [5.5 Training Materials](#55-training-materials)
-- [6. What I'll Learn](#6-what-ill-learn)
+- [6. MVP](#6-mvp)
+- [7. What I'll Learn](#7-what-ill-learn)
 
 ---
 
 ## 1. Project Overview
-The project aims to build a simplified version of **Finn.no**, a marketplace for buying and selling items. The solution will be developed from scratch, hosted on a Raspberry Pi, and made accessible to users over a network. The project will demonstrate my skills in programming, setting up infrastructure, and providing user support. 
+The project aims to build a simplified version of [**Finn.no**](https://www.finn.no/), a marketplace for buying and selling items. The solution will be developed from scratch, hosted on a Raspberry Pi, and made accessible to users over a network. The project will demonstrate my skills in programming, setting up infrastructure, and providing user support. 
 
 [**All code will be hosted on GitHub**](https://github.com/HenrikHaalandDev/VG2-Term-Project-NetThrifty), as required.
 
@@ -89,9 +90,14 @@ The solution will focus on basic functionality, security, and ease of use.
 ### 5.5 Training Materials
 - User guide and technical documentation, tailored for end-users and technical reviewers.
 
+
+## 6. MVP
+- Creating a way to save and retrieve data from server
+- No css, security, thinking of GDPR, Uu,  
+
 ---
 
-## 6. What I'll Learn
+## 7. What I'll Learn
 
 - **Setting up infrastructure**: Creating and managing a server and network.
 - **Database management**: Storing and retrieving data in a database.
