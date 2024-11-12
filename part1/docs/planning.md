@@ -16,6 +16,9 @@
   - [5.4 Backup and Security](#54-backup-and-security)
   - [5.5 Training Materials](#55-training-materials)
 - [6. MVP](#6-mvp)
+  - [6.1 Must have](#61-must-have)
+  - [6.2 Is nice to have](#62-is-nice-to-have)
+  - [6.3 No need](#63-no-need)
 - [7. What I'll Learn](#7-what-ill-learn)
 
 ---
@@ -92,8 +95,26 @@ The solution will focus on basic functionality, security, and ease of use.
 
 
 ## 6. MVP
-- Creating a way to save and retrieve data from server
-- No css, security, thinking of GDPR, Uu,  
+
+### 6.1 Must have
+- Send and retrieve data
+- Sign in/out and log in/out
+- Adding some error handling so it manages if sending or retriving 
+
+### 6.2 Is nice to have
+- Show Data on Webpage
+- Incrypted passwords
+
+### 6.3 No need
+- **CSS Styling**
+  - Skip detailed styling; focus on getting it to work rather than look good.
+- **Security**
+  - No need to worry about protecting against phishing, cyber attacks, or other security threats.
+- **GDPR Compliance** 
+  - No need to meet privacy laws or regulations for now.
+- **Accessibility**
+  - Postpone accessibility improvements until the main functions work well.
+
 
 ---
 
