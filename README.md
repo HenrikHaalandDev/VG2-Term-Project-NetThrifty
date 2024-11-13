@@ -99,7 +99,7 @@ The solution will focus on basic functionality, security, and ease of use.
 ### 6.1 Must have
 - Send and retrieve data
 - Sign in/out and log in/out
-- Adding some error handling so it manages if sending or retriving 
+- Adding some error handling so it gives the users an error message if sending/retreving data goes wrong
 
 ### 6.2 Is nice to have
 - Show Data on Webpage
